@@ -26,8 +26,8 @@ My Skills
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-
+![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Docker](https://applech2.com/wp-content/uploads/2016/07/Docker-logo-icon.jpg)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardosantosb&show_icons=true&theme=dark&border_radius=15)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantosb&layout=compact&theme=dark&border_radius=15)](https://github.com/leonardosantosb/github-readme-stats)
